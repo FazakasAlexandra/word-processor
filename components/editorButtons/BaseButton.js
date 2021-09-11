@@ -45,3 +45,5 @@ export const BaseButton = React.forwardRef(
     )
   }
 )
+
+BaseButton.displayName = 'BaseButton';

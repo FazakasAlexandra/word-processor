@@ -51,3 +51,5 @@ export const Toolbar = React.forwardRef(
     </div>
   )
 )
+
+Toolbar.displayName = 'Toolbar';

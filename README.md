@@ -1,4 +1,5 @@
-## Build with slatejs
+## Basic word processor
+Build with [Slatejs](https://docs.slatejs.org/)
 
 Features 
 1. Rich textarea - edit zone
